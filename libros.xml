@@ -1,0 +1,11 @@
+<libros>
+    <libro id="1">
+        <autor> Luis </autor>
+    </libro>
+    <libro id="2">
+        <autor> Hugo </autor>
+    </libro>
+    <libro id="3">
+        <autor> Paco </autor>
+    </libro>
+</libros>

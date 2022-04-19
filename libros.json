@@ -1,0 +1,16 @@
+{
+    "libros": [
+        {
+            "id": 1,
+            "autor": "Luis"
+        },
+        {
+            "id": 2,
+            "autor": "Hugo"
+        },
+        {
+            "id": 3,
+            "autor": "Paco"
+        }
+    ]
+}
