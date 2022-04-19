@@ -7,14 +7,8 @@ import './index.scss';
 
 import '@popperjs/core';
 import 'bootstrap/dist/js/bootstrap.bundle';
+import { Test } from './Test';
 
-const Test = () => {
-    return (
-        <>
-            <h1>Simple Component React</h1>
-        </>
-    )
-}
 
 // React 17
 //ReactDOM.render(<Test />, document.querySelector('#root'));
